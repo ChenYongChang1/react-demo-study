@@ -1,0 +1,11 @@
+.add-people {
+  width: 100%;
+  .add-people-header {
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    .add-people-items {
+      width: 200px;
+    }
+  }
+}
