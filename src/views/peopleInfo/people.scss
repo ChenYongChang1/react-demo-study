@@ -1,0 +1,25 @@
+.people-box{
+  width: 1200px;
+  margin:0 auto;
+  .people-header{
+    width: 100%;
+    display: flex;
+    border-bottom: solid 1px gainsboro;
+    box-sizing: border-box;
+    margin-top: 30px;
+    div{
+      padding: 0 5px;
+      height: 30px;
+      line-height: 30px;
+      font-size: 14px;
+      text-align: center;
+      background: rgb(235, 235, 235);
+      color: gray;
+      cursor: pointer;
+    }
+    .people-header-active{
+      background: gray;
+      color: white;
+    }
+  }
+}
