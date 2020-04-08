@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Hello from './Hello'
+// import Hello from './Hello'
 import { Button } from 'antd'
 
 interface Loadding {
